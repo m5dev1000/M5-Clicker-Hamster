@@ -1,5 +1,6 @@
 # M5-Clicker-Hamster
-I made a Clicker Hamster game which you just click on it. This is my first project in Arduino IDE! (: 
-This is just a simple clicker game. 
+I made a Clicker Hamster game which you just click on it. This is my second project in Arduino IDE! (: 
+This is just a simple clicker game with a picture of a cute hamster in the background . 
 If you want to edit it use the "CLICKERGAME.ino".
-If you want to add a cute hamster in the background you need the to use the "HAMSTER_CLICKER_RELEASE" files to flash it in the build/release folders, in order to edit this version use the "CLICKER_HAMSTER_RELEASE.ino".
+The files for flashing it are in the release or the build folder.
+If you want for me to make it on other M5 devices contact me on Discord "goodbucks".
