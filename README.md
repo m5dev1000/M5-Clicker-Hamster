@@ -1,4 +1,5 @@
 # M5-Clicker-Hamster
+(V2 WITH COLOR)
 I made a Clicker Hamster game which you just click on it. This is my second project in Arduino IDE! (: 
 This is just a simple clicker game with a picture of a cute hamster in the background . 
 If you want to edit it use the "CLICKERGAME.ino".
